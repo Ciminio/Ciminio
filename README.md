@@ -24,3 +24,6 @@
 
 </div>
 
+##
+
+![snake gif](https://github.com/IzaiasCiminio/IzaiasCiminio/blob/output/github-contribution-grid-snake.svg)
