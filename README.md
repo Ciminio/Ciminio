@@ -3,6 +3,7 @@
 - 💼 Hoje trabalho como tecnico multi skill
 - 🌱 Atualmente estou aprendendo Python
 - 😄 Pronomes: Ele/Dele
+- 🏆 Estou em transição de carreira, realizando um grande sonho.
 
 <div style="display: inline_block"><br>
   
