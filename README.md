@@ -1,6 +1,6 @@
 ### Olá, eu sou Izaias Ciminio 😉
 
-- 💼 Hoje trabalho como tecnico multi skill
+- 💼 Hoje trabalho como tecnico eletronica
 - 🌱 Atualmente estou aprendendo Python
 - 😄 Pronomes: Ele/Dele
 - 🏆 Estou em transição de carreira, realizando um grande sonho.
